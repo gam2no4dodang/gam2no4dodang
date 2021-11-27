@@ -1,1 +1,1 @@
-<a href="[https://www.instagram.com/dladbfla49/]" target="_blank"><img src="https://img.shields.io/badge/[INSTAGRAM]-[E4405F]?style=flat-square&logo=[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title><Instagram></a>
+<a href="[https://www.instagram.com/dladbfla49/]" target="_blank"><img src="https://img.shields.io/badge/[Instagram]-[E4405F]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
